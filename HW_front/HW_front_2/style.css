@@ -73,3 +73,10 @@ html {
     display: flex;
     justify-content: space-around;
 }
+
+.binder_icon{
+    display: flex;
+    justify-content: center;
+    margin-top:  80px;
+    height: 40px;
+}
